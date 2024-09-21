@@ -1,14 +1,13 @@
 - 👋 Hi, I’m @MarcinSzymanek
-  - A Software Technology (Software engineering) student at Aarhus University
-  - I spend most of my time coding, learning, playing video games and playing music.
-  - I've played music since I was a teenager. I can play guitar, bass, own 2 different DAWs, and have dabbled in recording and mixing.
+  - A Software Technology (Software engineering) graduate at Aarhus University
+  - I spend most of my time coding, playing video games and playing music.
+  - I've played music since I was a teenager. I play guitar, bass, keys, and have dabbled in recording and mixing.
   - I'm a massive fan of coffee, Amanita design, Meshuggah and Hiatus Kaiyote.
-- 👀 I’m interested in 
-  - A student job within software development/software engineering fields! I love software development and problem solving and I'd like to start working within the industry.
-- 🌱 I’m currently learning ...
-  - Currently, my courses include studying algorithms, embedded programming, digital signal processing and network programming. When I'm not working on those I tend to brush up on my Python skills with a small roguelike project.
-- 💞️ I’m looking to collaborate on ...
-  - I'm interested in game design and I'd love to work on a small scale project in Unity or Unreal Engine.
+- 👀 I’m interested in
+  - Entry jobs in software development.
+  - Application development for Linux, Windows, Android
+  - Embedded development with MCU's (AVR, Teensy, Arduino, ESP32)
+  - Game Development, especially in Unity Engine
 - 📫 How to reach me ...
   - write me at marcinwszymanek@gmail.com !
 
