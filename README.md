@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MarcinSzymanek
   - A Software Technology (Software engineering) graduate at Aarhus University
-  - I spend most of my time coding, playing video games and playing music
   - I'm a massive fan of coffee, Amanita design, Meshuggah and Hiatus Kaiyote
 - 👀 I’m interested in
   - Front/Backend or fullstack dev positions
