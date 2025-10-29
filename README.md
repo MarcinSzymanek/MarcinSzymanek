@@ -2,7 +2,7 @@
   - A Software Technology (Software engineering) graduate at Aarhus University
   - I'm a massive fan of coffee, Amanita design, Meshuggah and Hiatus Kaiyote
 - 👀 I’m interested in
-  - Front/Backend or fullstack dev positions
+  - Front/Backend or fullstack dev positions. Bonus points for using Vue, React, Typescript, NestJs, C#
   - Application development for Linux, Windows, Android
   - Embedded development with MCU's (AVR, Teensy, Arduino, ESP32)
   - Game Development (Unity Engine)
